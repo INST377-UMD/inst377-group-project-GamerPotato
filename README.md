@@ -11,7 +11,7 @@ Chrome
 # User Manual
 Visit the following doc file for information: https://github.com/GamerPotato/INST377-Group-37/blob/main/INST377%20-%20Group%207%20Developer%20Manual.txt
 # Developer Manual
-## To run on a server
+## To run on a server and npm commands
 In order to be run on a server, if VSCode is being utilized, the Live Server extention should be installed. npm install node should be run in the terminal, along npm install chart.js for all the necessary things to work.
 ## API endpoints
 https://whiskyhunter.net/api/ is the api
